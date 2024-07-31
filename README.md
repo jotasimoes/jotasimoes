@@ -10,7 +10,7 @@ I consider myself a person of integrity and strong values, always eager to learn
 Backend: JAVA, C++<br>
 Web Developmento: HTML, CSS, JavaScript
 Database: Microsoft SQL Server<br>
-Addional: Problem solving, Team colaboration
+Additional: Problem solving, Team colaboration
 
 💼 Professional Opportunities<br>
 My goal is to join a dynamic team where I can contribute to innovative projects and continue growing in the IT field.
