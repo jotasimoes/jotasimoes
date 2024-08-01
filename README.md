@@ -8,7 +8,7 @@ I consider myself a person of integrity and strong values, always eager to learn
 
 ⚙️ Proficiencies<br>
 Backend: JAVA, C++<br>
-Web Developmento: HTML, CSS, JavaScript
+Web Development: HTML, CSS, JavaScript
 Database: Microsoft SQL Server<br>
 Additional: Problem solving, Team colaboration
 
